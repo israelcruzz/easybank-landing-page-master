@@ -1,0 +1,12 @@
+:root{
+    --primary-dark-blue: #2d314d;
+    --primary-lime-green: #75c98b;
+    --primary-bright-cyan: #2bb6d9;
+
+    --neutral-grayish-blue: #9698a6;
+    --neutral-light-grayish-blue: #f2f3f546;
+    --neutral-very-light-gray: #fafafa;
+    --neutral-white: #ffffff;
+
+    --font-size: 18px;
+}
